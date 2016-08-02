@@ -180,7 +180,7 @@ public class MainActivity extends Activity implements RewardedVideoAdListener {
     @Override
     public void onRewardedVideoAdFailedToLoad(int errorCode) {
         mIsRewardedVideoLoading = false;
-        Toast.makeText(this, "onRewardedVideoAdFailedToLoad", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "加载不上onRewardedVideoAdFailedToLoad", Toast.LENGTH_SHORT).show();
     }
 
     @Override

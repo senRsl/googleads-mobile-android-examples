@@ -45,6 +45,7 @@ import java.util.List;
 public class MainActivity extends ActionBarActivity {
 
     private static final String ADMOB_AD_UNIT_ID = "ca-app-pub-3940256099942544/2247696110";
+//    private static final String ADMOB_AD_UNIT_ID = "ca-app-pub-3940256099942544~3347511713";
     private static final String ADMOB_APP_ID = "ca-app-pub-3940256099942544~3347511713";
 
     private Button mRefresh;

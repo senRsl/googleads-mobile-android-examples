@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_88c91a0f2a09ad2ad247a944c73321c6bb703be8.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5004f596a6a9b3f052ed3def34fe28fe164df52a.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f8d4a2de59ffa129ed9164013fe6f571117ed0d3.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_b7ffa99878735691b34d9baeb24cab9808ba6733.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_e8cbf66a4572d27f6641ba8aa0b3557b36c0768c.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_a3ce55df029127e8d53bb6e61eb43cf1ad5a02f2.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_ff1fa77811e0f108904a03815c6cd8db2224d4bf.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.0_240df32416b64141b07bfee4350f315e66c30c4b.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5a2f4189d1b20d745e558d369e72a0af3cd3ebf0.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_c9a404f676965d7b31479023723a22f67603a085.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3966055aac37cd1415cffaec050aa74d1cb5e089.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f372cd6aca4f3d1aeac48e53089aa7be62dca07b.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_5376e6c362ab229ca30df5ec3d173d8c69c69b9d.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.0_558dff8e2e3fc794c749faa317d6a5c592c4c860.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/BannerExample1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_3817471a4e437ae7293826c930a423249e1a9d31.jar" />
+    </item>
+
+</items>

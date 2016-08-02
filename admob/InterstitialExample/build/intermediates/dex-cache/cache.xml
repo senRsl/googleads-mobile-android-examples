@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_912533d7a1379c0e00916a49bb661ca389cdb2ce.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_c8899d6c05307eea716311b9ecfb25c50a034cd0.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_af9418d2cd8f8b24d92c51be1a0aaf839337e7d4.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_86b4925baa148b08a4551fcfc1a94af39abda6a4.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5004f596a6a9b3f052ed3def34fe28fe164df52a.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.0_dd4b81d45ec89ab39d35366fd3ae9ab8206f829c.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d410825848d397a139bf8feee910638448340f96.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_d6f628593fe722dd05bd459183d70ad031a69310.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_e0042f9434df630c5d47b3e1e5d33a2c67ffd358.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_7f145202311d0e259ec428442c15ba6316a5cdbd.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_99df062bfae5d6e5940d164fdacc41fdcd4b3e60.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_b8884bd2c6677ed0d3b5b24459bf33290bc957d9.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_05e636339ce20abe3186eb6fd7d36f904277019e.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.0_a19d2dd0df1d19177841f9bbb5f5184890811e8e.jar" />
+    </item>
+    <item
+        jar="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/senrsl/test/ads/googleads-mobile-android-examples/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_e02845e422a1f2c3b017fc1ff223c7dce2f79cef.jar" />
+    </item>
+
+</items>

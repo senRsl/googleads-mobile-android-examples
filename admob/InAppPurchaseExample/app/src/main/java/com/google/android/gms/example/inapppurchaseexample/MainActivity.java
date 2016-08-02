@@ -38,9 +38,46 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ *
+ *
  * A class that demonstrates how to use AdMob in-app purchase ads.
  */
 public class MainActivity extends AppCompatActivity implements PlayStorePurchaseListener {
+
+
+
+   /* GooglePlayServicesUtil: Cannot find Google Play services package name.
+            android.content.pm.PackageManager$NameNotFoundException: com.google.android.gms
+            at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:82)
+            at com.google.android.gms.internal.zzpv.getPackageInfo(Unknown Source)
+            at com.google.android.gms.common.zze.zzap(Unknown Source)
+            at com.google.android.gms.common.zze.zzao(Unknown Source)
+            at com.google.android.gms.common.zze.zzaj(Unknown Source)
+            at com.google.android.gms.common.zze.isGooglePlayServicesAvailable(Unknown Source)
+            at com.google.android.gms.common.zzc.isGooglePlayServicesAvailable(Unknown Source)
+            at com.google.android.gms.ads.internal.util.client.zza.zzQ(Unknown Source)
+            at com.google.android.gms.ads.internal.client.zzl.zza(Unknown Source)
+            at com.google.android.gms.ads.internal.client.zzl.zzl(Unknown Source)
+            at com.google.android.gms.ads.internal.client.zzag.zza(Unknown Source)
+            at com.google.android.gms.ads.MobileAds.initialize(Unknown Source)
+            at com.google.android.gms.ads.MobileAds.initialize(Unknown Source)
+            at com.google.android.gms.example.inapppurchaseexample.MainActivity.onCreate(MainActivity.java:111)
+            at android.app.Activity.performCreate(Activity.java:5231)
+            at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+            at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2159)
+            at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2245)
+            at android.app.ActivityThread.access$800(ActivityThread.java:135)
+            at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1196)
+            at android.os.Handler.dispatchMessage(Handler.java:102)
+            at android.os.Looper.loop(Looper.java:136)
+            at android.app.ActivityThread.main(ActivityThread.java:5017)
+            at java.lang.reflect.Method.invokeNative(Native Method)
+            at java.lang.reflect.Method.invoke(Method.java:515)
+            at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)
+            at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)
+            at dalvik.system.NativeStart.main(Native Method)
+
+     */
 
     /**
      * The public key for your Android application, which can be found in the Android console.
